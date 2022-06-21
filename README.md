@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript </code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@ttommy7](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@ttommy7](https://telegram.me/ttommy7)</code>
 <code>📫 [yarikkotenkoim13@gmail.com](mailto:your-email)</code>
