@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IM-13</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Front-End </code><br>
+<code>👷 Speciality: Software engineer/ Front-End </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
