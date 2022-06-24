@@ -36,11 +36,11 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟦 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
 | 🟦 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
-| 🟦 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟦 Method             | ⬜ Enum              |                          |
-| 🟦 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
+| 🟦 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
+| 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
+| 🟦 Functional programming      | 🟩 Async method       | 🟦 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟩 Getters, Setters   | 🟦 Doubly list       |                          |
 | 🟦 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
