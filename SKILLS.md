@@ -63,9 +63,9 @@
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟩 Callback-last       | 🟦 Timers                      | 🟦 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
-| 🟩 Promise             | 🟦 nextTick                    | 🟦 try..catch       | ⬜ Rx.js                 |
-| 🟦 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
-| 🟦 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
+| 🟩 Promise             | 🟦 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
+| 🟩 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
+| 🟩 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟩 Promise.race          |
@@ -102,7 +102,7 @@
 | 🟦 Streams           | 🟦 Domain in the middle      | 🟦 XSS            |                  |                      |
 | 🟦 Clustering        | 🟦 Message Queue             | 🟦 Path traversal |                  |                      |
 | ⬜ Load balancing    | 🟦 Transport-agnostic server | 🟦 CSRF           |                  |                      |
-| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟦 DNS            |                  |                      |
+| ⬜ Serverless clouds | 🟦 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟦 Fetch          |                  |                      |
 | 🟦 Debugging node.js | ⬜ Real-time applications    | 🟦 zlib           |                  |                      |
 | 🟦 crypto            | 🟦 CQS and CQRS              |                   |                  |                      |
