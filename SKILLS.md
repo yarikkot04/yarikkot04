@@ -12,7 +12,7 @@
 | 🟩 constant          | 🟩 prototype          | 🟩 signature          | 🟩 collection       | 🟦 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟦 hash table       | 🟩 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟦 linked list      | 🟩 magic numbers     |
-| 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
+| 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟩 queue            | 🟦 hardcode          |
 | 🟩 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟦 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
