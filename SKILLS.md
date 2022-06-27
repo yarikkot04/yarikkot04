@@ -36,7 +36,7 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟩 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
 | 🟦 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟦 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
 | 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
@@ -50,7 +50,7 @@
 | 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
-| 🟦 Automata-based programming  | 🟦 Encapsulation      | 🟦 Iterator          |                          |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
