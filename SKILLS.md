@@ -21,7 +21,7 @@
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟦 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟦 duplicate code    |
-| 🟩 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
+| 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟩 generator         | 🟩 switch             | ⬜️ memoize            | 🟩 Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟨 string parsing   | 🟩 prettier          |
@@ -45,7 +45,7 @@
 | 🟦 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
-| 🟦 Concurrent computing        | 🟦 Inheritance        | 🟦 Graphs            |                          |
+| 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
 | 🟦 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
@@ -69,7 +69,7 @@
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟩 Promise.race          |
-| 🟦 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟦 Promise.any           |
+| 🟩 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟦 Promise.any           |
 | 🟦 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
 | ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
 | ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | ⬜ Thread Pool           |
