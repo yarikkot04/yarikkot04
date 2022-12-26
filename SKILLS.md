@@ -6,7 +6,7 @@
 
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟦 refactoring       |
+| 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
 | 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟩 signature          | 🟩 collection       | 🟩 paradigm          |
@@ -47,7 +47,7 @@
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟦 Graphs            |                          |
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
+| 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
