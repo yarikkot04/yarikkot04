@@ -7,13 +7,13 @@
 | Syntax               | Statements            | Functions             | Data structures     | Process & style      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
 | 🟩 value             | 🟩 if                 | 🟩 recursion          | 🟩 array            | 🟩 refactoring       |
-| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟦 code review       |
-| 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
+| 🟩 identifier        | 🟩 loops              | 🟩 function           | 🟩 instance         | 🟩 code review       |
+| 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟩 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟩 signature          | 🟩 collection       | 🟩 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟩 linked list      | 🟩 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟦 pure function      | 🟩 queue            | 🟦 hardcode          |
-| 🟩 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟦 complexity        |
+| 🟩 heap              | 🟩 for                | 🟦 lambda             | 🟩 stack            | 🟩 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟩 side effects       | 🟦 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟩 for await          | 🟦 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
@@ -21,7 +21,7 @@
 | 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟦 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟦 duplicate code    |
-| 🟩 this              | 🟩 bitwise operators  | 🟦 listener           | 🟩 weak collections | 🟦 exception         |
+| 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | 🟩 Proxy            | 🟦 return early      |
 | 🟩 generator         | 🟩 switch             | ⬜️ memoize            | 🟩 Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | 🟩 prettier          |
@@ -49,11 +49,11 @@
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
 | 🟦 Reactive programming        | 🟦 Abstract class     | ⬜ Monad             |                          |
-| ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟦 Generator         |                          |
-| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟦 Iterator          |                          |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟦 Async Iterator    |                          |
+| ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟩 Generator         |                          |
+| 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
+| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
-| ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
+| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
 
