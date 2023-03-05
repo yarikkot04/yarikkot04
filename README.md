@@ -12,9 +12,6 @@
 
 <code>📦 Tech stack: node.js</code>
 
-<code>💬 telegram: [@ttommy7](https://telegram.me/ttommy7)</code>
-
-<code>📫 [yarikkotenkoim13@gmail.com](mailto:your-email)</code>
 
 ## Languages and Tools:
 <div>
@@ -29,5 +26,12 @@
 </div>
 <br>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarikkot04&theme=tokyonight)
+
+<br>
+## Contact with me:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://telegram.me/ttommy7)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000)](mailto:yarikkotenkoim13@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/yarikk_kott)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=000080)](https://discordapp.com/users/613775810809298945/)
