@@ -15,3 +15,5 @@
 <code>💬 telegram: [@ttommy7](https://telegram.me/ttommy7)</code>
 
 <code>📫 [yarikkotenkoim13@gmail.com](mailto:your-email)</code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarikkot04&theme=tokyonight)
