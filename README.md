@@ -28,7 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarikkot04&theme=tokyonight)
 
-<br>
 ### Contact with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://telegram.me/ttommy7)
