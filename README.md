@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-yarikkot04&color=orange)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Yaroslav+Kotenko+😺;A+student+on+FICE,+KPI;Software+engineer;)](https://git.io/typing-svg)
 
 <code>🎓 Student: KPI / IM-13</code>
