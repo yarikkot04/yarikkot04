@@ -10,7 +10,7 @@
 
 <code>🧻 [Projects](PROJECTS.md)</code>
 
-<code>🧑‍💻 Languages: JavaScript </code>
+<code>🧑‍💻 Languages: JavaScript, Go </code>
 
 <code>📦 Tech stack: node.js</code>
 
